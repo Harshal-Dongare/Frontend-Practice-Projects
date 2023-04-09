@@ -1,5 +1,5 @@
 
-# Extensive Frontend Project Repository
+# Extensive Frontend Projects Repository
 
 This is where I showcase a range of projects that demonstrate my skills in frontend development. From simple designs to more complex interfaces, each project in this repository represents my commitment to creating engaging and user-friendly websites. 
 Feel free to explore the projects and contribute to this growing collection of frontend works.
