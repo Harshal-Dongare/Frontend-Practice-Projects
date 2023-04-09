@@ -17,11 +17,11 @@ Here's a list of the projects currently in this repository:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/Frontend-project.git
+ git clone https://github.com/your-username/Frontend-project.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd Frontend-project
+ cd Frontend-project
 ```
 3. Open the project you want to view in your preferred code editor.
 4. Open the index.html file in your web browser.
